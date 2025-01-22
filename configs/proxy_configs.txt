@@ -4,6 +4,8 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://68601963-27c2-4253-c784-914782ce09ef@speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=foffmelo.com&type=ws#%40s0013_official@s0013_official
+
 vless://785df221-d8da-59b8-961e-2c6027f7aee1@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=il17.maxima.us.kg&encryption=none#Rayan%20-%20SSM%20-%20GC%20-%20il-1-17
 
 vless://8b6d10f0-11a3-4277-b117-2a5605a86e77@vpninter.net:443?security=tls&sni=vpninter.net&allowInsecure=1&fp=chrome&type=ws&path=/217.197.107.173-2053&host=vpninter.net&encryption=none#Rayan%20-%20VPI%20-%20C.980%20-%20RU
