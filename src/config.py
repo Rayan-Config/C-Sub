@@ -54,7 +54,7 @@ class ProxyConfig:
         self.SOURCE_URLS = [
             ChannelConfig("https://t.me/s/mms_config"),
             ChannelConfig("https://t.me/s/mahsa_net"),
-           # ChannelConfig("https://t.me/s/v2ray_free_conf"),
+            ChannelConfig("https://t.me/s/vpn_xw"),
            # ChannelConfig("https://t.me/s/PrivateVPNs"),
            # ChannelConfig("https://t.me/s/IP_CF_Config"),
            # ChannelConfig("https://t.me/s/shadowproxy66"),
