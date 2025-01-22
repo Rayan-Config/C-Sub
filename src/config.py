@@ -53,7 +53,7 @@ class ProxyConfig:
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         self.SOURCE_URLS = [
             ChannelConfig("https://t.me/s/mms_config"),
-            ChannelConfig("https://t.me/s/mahsa_net"),
+            ChannelConfig("https://t.me/s/+YIlqV-fl9y4zMmRk"),
             ChannelConfig("https://t.me/s/vpn_xw"),
            # ChannelConfig("https://t.me/s/PrivateVPNs"),
            # ChannelConfig("https://t.me/s/IP_CF_Config"),
