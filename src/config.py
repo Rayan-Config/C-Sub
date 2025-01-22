@@ -52,9 +52,7 @@ class ProxyConfig:
         # List of source URLs to fetch proxy configs from
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         self.SOURCE_URLS = [
-           # ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt"),
-           # ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
-           # ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
+            ChannelConfig("https://t.me/s/mms_config"),
             ChannelConfig("https://t.me/s/mahsa_net"),
            # ChannelConfig("https://t.me/s/v2ray_free_conf"),
            # ChannelConfig("https://t.me/s/PrivateVPNs"),
