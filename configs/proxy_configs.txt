@@ -52,9 +52,15 @@ vless://1fb52030-a522-4665-8a35-09b6710b062d@v26.blkrose.ir:2053?mode=gun&securi
 
 vless://1fb52030-a522-4665-8a35-09b6710b062d@v28.blkrose.ir:2053?security=reality&type=grpc&headerType=&serviceName=2053vless&authority=&mode=gun&sni=sourceforge.net&fp=chrome&pbk=nr4qs7JSJShNXIpWKNGReZXaFw910k1X93NDevapa0E&sid=5640288dca4f8519#telegram🚀DailyV2ry
 
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#Channel%20id%3A%20%40ShadowProxy66%20🌍 Country: Sweden 🇸🇪📍 Region: Stockholm County🏙 City: Stockholm📬 Zip Code: 100 04🌐 ISP: UAB Cherry Servers
+
+trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B5%40shokhmiplus
 
@@ -96,12 +102,6 @@ trojan://telegram-id-directvpn@44.209.100.53:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@51.20.154.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@52.16.69.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@52.209.236.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@63.177.20.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
-
 wireguard://IOHx7CT2Q307vHKb2on6gab7exXhy2nEWJ8Qi47wGFI%3D@188.114.96.150:854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=154%2C14%2C68&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W11
 
 
@@ -128,6 +128,8 @@ wireguard://UORbCRi51JbKOOqvcuxX425Az8%2BCfg8ZBX5xV0aRB3A%3D@162.159.192.81:1387
 
 wireguard://UORbCRi51JbKOOqvcuxX425Az8%2BCfg8ZBX5xV0aRB3A%3D@188.114.98.130:2408?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=189%2C163%2C213&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W8
 
+wireguard://eMppwyG5%2FJCfgokFblb4nEXQaL548H557kliLS39rVo%3D@162.159.192.143:1002?address=172.16.0.2%2F32&reserved=46%2C253%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://kHfZPDVOpqUPMcKN9ocd3Z%2B%2FFFfCBNhQRdDRvBSaCl0%3D@162.159.195.244:7152?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=92%2C17%2C133&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W5
 
 wireguard://kHfZPDVOpqUPMcKN9ocd3Z%2B%2FFFfCBNhQRdDRvBSaCl0%3D@162.159.195.24:8886?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=92%2C17%2C133&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W6
@@ -143,6 +145,8 @@ wireguard://mFBdA7VyNMOBsWdqpG4i%2BNNCvjfW6aEtkpyYwFxcplA%3D@162.159.192.129:385
 wireguard://qMR1IawrjvSPBBwN1nQr32EOgbxc8Ra1aQmiLDdwHFY%3D@162.159.192.175:7281?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=110%2C165%2C64&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W10
 
 wireguard://qMR1IawrjvSPBBwN1nQr32EOgbxc8Ra1aQmiLDdwHFY%3D@162.159.192.60:854?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A85db%3A3ba9%3Ad1b2%3A39c9%3A5c05%2F128&presharedkey=&reserved=110%2C165%2C64&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#Rayan -WG - Warp - W9
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTg4LjY4LjI1MC4yMDIiLCJwb3J0IjoyMTExMywiaWQiOiIwZmI3ZjJmYy0yMmQwLTRlNjAtYmJhOC03MTgxOTkwNjMyOWEiLCJhaWQiOjAsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJub25lIn0=
 
 vmess://eyJhZGQiOiAibGluMDUwMi5od2Nhci5zYnMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluamEwNS5od2Nhci5zYnMiLCAiaWQiOiAiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsaW5qYTA1Lmh3Y2FyLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 
@@ -173,8 +177,6 @@ vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWQtMS1yLTIubWF4aW1h
 vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWQtZ2ZkZmhkZmhkLm1heGltYS51cy5rZyIsImlkIjoiNjc2OGZhYjUtNTI5YS00NDBhLTk4ZWUtMzRjN2Q4NjU2ZTUyIiwibmV0Ijoid3MiLCJwYXRoIjoiL0pBR09BTlNTSC8iLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIFVEQyAtIEdDIC0gaWQtMS11LTIiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWUxMC5tYXhpbWEudXMua2ciLCJpZCI6IjNlZjE5ZWU0LTAyODEtNGE3Yy1iMmFmLTgzYTM0N2UzYmY3MCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyNET05ULUZPUkdFVC1UTy1TVVBQT1JULVNTSE1BWC5ORVQtVE8tS0VFUC1USElTLVNFUlZFUi1BTElWRSIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gVm1lc3MgLSBHQyAtIGllMTAiLCJzY3kiOiJub25lIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidHIxNC5tYXhpbWEudXMua2ciLCJpZCI6IjhlZTAwZTA0LTkxOTEtNDNlZi04YmU4LTY1M2QwOThmMmU1OSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyNET05ULUZPUkdFVC1UTy1TVVBQT1JULVNTSE1BWC5ORVQtVE8tS0VFUC1USElTLVNFUlZFUi1BTElWRSIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gVm1lc3MgLSBHQyAtIHRyMTQiLCJzY3kiOiJub25lIiwic25pIjoiZ2NvcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#%F0%9F%87%B3%F0%9F%87%B1%20%40vlees_v2rayng
 
