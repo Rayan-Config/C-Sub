@@ -114,7 +114,7 @@ class ProxyConfig:
             "wireguard://": {
                 "min_configs": self.PROTOCOL_CONFIG_LIMITS["min"],
                 "max_configs": self.PROTOCOL_CONFIG_LIMITS["max"],
-                "priority": 2,
+                "priority": 1,
                 "flexible_max": True
             },
             "hysteria2://": {
@@ -133,7 +133,7 @@ class ProxyConfig:
             "vmess://": {
                 "min_configs": self.PROTOCOL_CONFIG_LIMITS["min"],
                 "max_configs": self.PROTOCOL_CONFIG_LIMITS["max"],
-                "priority": 1,
+                "priority": 2,
                 "flexible_max": True
             },
             "ss://": {
@@ -145,7 +145,7 @@ class ProxyConfig:
             "trojan://": {
                 "min_configs": self.PROTOCOL_CONFIG_LIMITS["min"],
                 "max_configs": self.PROTOCOL_CONFIG_LIMITS["max"],
-                "priority": 2,
+                "priority": 1,
                 "flexible_max": True
             },
             "tuic://": {
@@ -169,7 +169,7 @@ class ProxyConfig:
         self.PROTOCOL_BALANCE_FACTOR = 1.5        # Factor for adjusting protocol limits (default: 1.5)
 
         # Output file paths (default paths shown)
-        self.OUTPUT_FILE = 'configs/proxy_configs.txt'    # Path to save final configs
+        self.OUTPUT_FILE = 'configs/proxy.txt'    # Path to save final configs
         self.STATS_FILE = 'configs/channel_stats.json'    # Path to save channel stats
         
         # HTTP request settings
