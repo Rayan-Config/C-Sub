@@ -77,6 +77,7 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/daily_configs"),
             ChannelConfig("https://t.me/s/mobilesignal"),
             ChannelConfig("https://t.me/s/vpnowl"),
+            ChannelConfig("https://t.me/oneclickvpnkeys"),
             ChannelConfig("https://t.me/s/xs_filternet")
         ]
 
