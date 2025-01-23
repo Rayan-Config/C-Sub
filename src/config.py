@@ -105,8 +105,8 @@ class ProxyConfig:
         # Default values: min=3, max=25
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 100,    # Minimum configs required per protocol (default: 3)
-            "max": 300    # Maximum configs allowed per protocol (default: 25)
+            "min": 50,    # Minimum configs required per protocol (default: 3)
+            "max": 200    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
