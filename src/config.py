@@ -54,7 +54,7 @@ class ProxyConfig:
         self.SOURCE_URLS = [
             ChannelConfig("https://Rayan-Config.github.io/ALL"),
             ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/vpn_xw"),
+            ChannelConfig("https://t.me/s/nufilter"),
             ChannelConfig("https://t.me/s/hajmvpn"),
             ChannelConfig("https://t.me/s/daily_configs"),
             ChannelConfig("https://t.me/s/MehradLearn"),
@@ -77,7 +77,21 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/daily_configs"),
             ChannelConfig("https://t.me/s/mobilesignal"),
             ChannelConfig("https://t.me/s/vpnowl"),
-            ChannelConfig("https://t.me/oneclickvpnkeys"),
+            ChannelConfig("https://t.me/s/oneclickvpnkeys"),
+            ChannelConfig("https://t.me/s/ShadowProxy66"),
+            ChannelConfig("https://t.me/s/v2ray_free_conf"),
+            ChannelConfig("https://t.me/s/v2rayNG_Dani"),
+            ChannelConfig("https://t.me/s/free_config47"),
+            ChannelConfig("https://t.me/s/Free_V2ray_Config"),
+            ChannelConfig("https://t.me/s/CYGAG"),
+            ChannelConfig("https://t.me/s/DeamNet_proxy"),
+            ChannelConfig("https://t.me/s/SvnTeam"),
+            ChannelConfig("https://t.me/s/vpnfail_vless"),
+            ChannelConfig("https://t.me/s/OutlineVpnOfficial"),
+            ChannelConfig("https://t.me/s/v2Line"),
+            ChannelConfig("https://t.me/s/v2ray_configs_pool"),
+            ChannelConfig("https://t.me/s/poroxybaz"),
+            ChannelConfig("https://t.me/s/ZibaNabz"),
             ChannelConfig("https://t.me/s/xs_filternet")
         ]
 
@@ -85,8 +99,8 @@ class ProxyConfig:
         # Default values: min=3, max=25
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 9,    # Minimum configs required per protocol (default: 3)
-            "max": 25    # Maximum configs allowed per protocol (default: 25)
+            "min": 3,    # Minimum configs required per protocol (default: 3)
+            "max": 500    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
