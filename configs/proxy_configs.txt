@@ -54,10 +54,6 @@ vless://1fb52030-a522-4665-8a35-09b6710b062d@v28.blkrose.ir:2053?security=realit
 
 trojan://0000000@www.lovelive-anime.jp:443/?type=tcp&security=tls#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443?security=tls#[🏁]t.me/ConfigsHubϟ ᴛᴇʜʀᴀɴ ϟ ꜱʜɪʀᴀᴢ ϟ ᴇsғᴀʜᴀɴ ϟ ᴋᴀʀᴀᴊ ϟᴄᴏᴜɴᴛʀʏ: #ᴊᴀᴘᴀɴ(ᴊᴘ)ᴄᴏɴғɪɢsʜᴜʙ ₪ ᴋɪɴɢᴀʀɪʏᴀ ₪ ʙᴏᴛ
-
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -101,6 +97,14 @@ trojan://telegram-id-directvpn@3.96.96.113:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@3.98.228.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.178.29.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@44.209.100.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@51.20.154.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
+
+wireguard://%2BOtQ70v9LB%2BKKslq4fAjPCop187qBBtUPpg2dsMVOEo%3D@188.114.98.92:7156?address=172.16.0.2%2F32&reserved=69%2C3%2C87&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+wireguard://KIzKCpIC5uPD3WtRs3pM25SNLJ8oWXg4ar3t7pANw3A%3D@162.159.192.78:7156?address=172.16.0.2%2F32&reserved=158%2C82%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://YDXBsSzq7Ti5bNiOVVREmGN0hFYMkbHxn0OmKV%2FNH3Y%3D@188.114.97.84:4177?address=172.16.0.2%2F32&reserved=38%2C224%2C78&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
