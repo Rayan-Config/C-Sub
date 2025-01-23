@@ -52,24 +52,32 @@ class ProxyConfig:
         # List of source URLs to fetch proxy configs from
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         self.SOURCE_URLS = [
-            ChannelConfig("https://t.me/s/mms_config"),
-            ChannelConfig("https://t.me/s/+YIlqV-fl9y4zMmRk"),
+            ChannelConfig("https://Rayan-Config.github.io/ALL"),
+            ChannelConfig("https://t.me/s/iP_CF"),
             ChannelConfig("https://t.me/s/vpn_xw"),
-           # ChannelConfig("https://t.me/s/PrivateVPNs"),
-           # ChannelConfig("https://t.me/s/IP_CF_Config"),
-           # ChannelConfig("https://t.me/s/shadowproxy66"),
-           # ChannelConfig("https://t.me/s/OutlineReleasedKey"),
-           # ChannelConfig("https://t.me/s/prrofile_purple"),
-           # ChannelConfig("https://t.me/s/proxy_shadosocks"),
-           # ChannelConfig("https://t.me/s/meli_proxyy"),
-           # ChannelConfig("https://t.me/s/DirectVPN"),
-           # ChannelConfig("https://t.me/s/VmessProtocol"),
-           # ChannelConfig("https://t.me/s/V2ray_Alpha"),
-           # ChannelConfig("https://t.me/s/VlessConfig"),
-           # ChannelConfig("https://t.me/s/DailyV2RY"),
-           # ChannelConfig("https://t.me/s/ShadowsocksM"),
-            # ChannelConfig("https://t.me/s/v2rayngvpn")
-            # ChannelConfig("https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/channels/protocols/hysteria")
+            ChannelConfig("https://t.me/s/hajmvpn"),
+            ChannelConfig("https://t.me/s/daily_configs"),
+            ChannelConfig("https://t.me/s/MehradLearn"),
+            ChannelConfig("https://t.me/s/ConfigsHUB2"),
+            ChannelConfig("https://t.me/s/FreakConfig"),
+            ChannelConfig("https://t.me/s/v2rayNG_021"),
+            ChannelConfig("https://t.me/s/DailyV2RY"),
+            ChannelConfig("https://t.me/s/PrivateVPNs"),
+            ChannelConfig("https://t.me/s/DirectVPN"),
+            ChannelConfig("https://t.me/s/proxystore11"),
+            ChannelConfig("https://t.me/s/VmessProtocol"),
+            ChannelConfig("https://t.me/s/flyv2ray"),
+            ChannelConfig("https://t.me/s/ELiV2RAY"),
+            ChannelConfig("https://t.me/s/Parsashonam"),
+            ChannelConfig("https://t.me/s/UnlimitedDev"),
+            ChannelConfig("https://t.me/s/xs_filternet"),
+            ChannelConfig("https://t.me/s/shokhmiplus"),
+            ChannelConfig("https://t.me/s/hormozvpn"),
+            ChannelConfig("https://t.me/s/Trick_mobil"),
+            ChannelConfig("https://t.me/s/daily_configs"),
+            ChannelConfig("https://t.me/s/mobilesignal"),
+            ChannelConfig("https://t.me/s/vpnowl"),
+            ChannelConfig("https://t.me/s/xs_filternet")
         ]
 
         # Global limits for number of configs per protocol
