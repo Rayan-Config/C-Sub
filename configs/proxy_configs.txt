@@ -64,8 +64,6 @@ trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls
 
 trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?security=tls&headerType=none&type=tcp#Channel%20id%3A%20%shokhmiplus%20🌍 Country: United States 🇺🇸📍 Region: California🏙 City: San Francisco📬 Zip Code: 94107🌐 ISP: Fastly, Inc.
 
-trojan://Ng35283528@gozargah2.cloudflare3-80.hosting-ip.com:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://e4b918f0-d7fc-11ef-9c3d-1239d0255272@fr1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#🇲🇫-hamedp71
 
 trojan://ead93bc0-d7fc-11ef-a52e-1239d0255272@uk1.test3.net:443/turk.radicalization.ir?sni=turk.radicalization.ir#🇬🇧-hamedp71
@@ -102,13 +100,17 @@ trojan://telegram-id-directvpn@44.209.100.53:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@52.47.112.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@54.195.242.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
+
 wireguard://0NQKf2crREP59UzfaNaXsmF8SMweiX%2F4tTuiFqtAJ0M%3D@162.159.192.68:1070?address=172.16.0.2%2F32&reserved=118%2C253%2C45&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://4GOt%2BEp6tuAoyNWOTiboZuZ9FombwWqKx1NOOpGpanw%3D@162.159.195.135:8886?address=172.16.0.2%2F32&reserved=29%2C13%2C5&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+wireguard://EP3JBCDZJUwV7Hv69OCBe8qy5n6bHUd67yDdlNJmZ3c%3D@162.159.192.238:4198?address=172.16.0.2%2F32&reserved=42%2C248%2C42&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://KIzKCpIC5uPD3WtRs3pM25SNLJ8oWXg4ar3t7pANw3A%3D@162.159.192.78:7156?address=172.16.0.2%2F32&reserved=158%2C82%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-vmess://eyJhZGQiOiAiOTQuMTgyLjE1MC4yMzAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjJiN2NlMWQyLTAzNzItNDEwNC1hYTA2LWY3ZDk5OWYyNmUxZCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=MTN
+wireguard://aFZgGHzZZOsLvMlqb2ZrRbXFJ%2BR%2FSW0ScTCAzpcjb1M%3D@162.159.195.31:988?address=172.16.0.2%2F32&reserved=120%2C18%2C75&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 vmess://eyJhZGQiOiAibGluMDUwMi5od2Nhci5zYnMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluamEwNS5od2Nhci5zYnMiLCAiaWQiOiAiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsaW5qYTA1Lmh3Y2FyLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 
@@ -139,6 +141,8 @@ vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWQtMS1yLTIubWF4aW1h
 vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWQtZ2ZkZmhkZmhkLm1heGltYS51cy5rZyIsImlkIjoiNjc2OGZhYjUtNTI5YS00NDBhLTk4ZWUtMzRjN2Q4NjU2ZTUyIiwibmV0Ijoid3MiLCJwYXRoIjoiL0pBR09BTlNTSC8iLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIFVEQyAtIEdDIC0gaWQtMS11LTIiLCJzY3kiOiJhdXRvIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiaWUxMC5tYXhpbWEudXMua2ciLCJpZCI6IjNlZjE5ZWU0LTAyODEtNGE3Yy1iMmFmLTgzYTM0N2UzYmY3MCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyNET05ULUZPUkdFVC1UTy1TVVBQT1JULVNTSE1BWC5ORVQtVE8tS0VFUC1USElTLVNFUlZFUi1BTElWRSIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gVm1lc3MgLSBHQyAtIGllMTAiLCJzY3kiOiJub25lIiwic25pIjoiZ2NvcmUubHUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidHIxNC5tYXhpbWEudXMua2ciLCJpZCI6IjhlZTAwZTA0LTkxOTEtNDNlZi04YmU4LTY1M2QwOThmMmU1OSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyNET05ULUZPUkdFVC1UTy1TVVBQT1JULVNTSE1BWC5ORVQtVE8tS0VFUC1USElTLVNFUlZFUi1BTElWRSIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gVm1lc3MgLSBHQyAtIHRyMTQiLCJzY3kiOiJub25lIiwic25pIjoiZ2NvcmUuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.136:8080#%F0%9F%87%B3%F0%9F%87%B1%20%40vlees_v2rayng
 
