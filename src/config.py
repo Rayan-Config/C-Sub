@@ -53,7 +53,7 @@ class ProxyConfig:
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         self.SOURCE_URLS = [
             ChannelConfig("https://Rayan-Config.github.io/ALL"),
-            ChannelConfig("https://t.me/s/iP_CF"),
+            ChannelConfig("https://t.me/s/IP_CF_Config"),
             ChannelConfig("https://t.me/s/vpn_xw"),
             ChannelConfig("https://t.me/s/hajmvpn"),
             ChannelConfig("https://t.me/s/daily_configs"),
