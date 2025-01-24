@@ -54,41 +54,31 @@ class ProxyConfig:
         self.SOURCE_URLS = [
             ChannelConfig("https://Rayan-Config.github.io/ALL"),
             ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/nufilter"),
             ChannelConfig("https://t.me/s/prrofile_purple"),
-            ChannelConfig("https://t.me/s/proxy_shadosocks"),
             ChannelConfig("https://t.me/s/meli_proxyy"),
             ChannelConfig("https://t.me/s/ViProxys"),
             ChannelConfig("https://t.me/s/heyatserver"),
-            ChannelConfig("https://t.me/s/ShadowsocksM"),
             ChannelConfig("https://t.me/s/hajmvpn"),
-            ChannelConfig("https://t.me/s/FreeStrongVpn"),
             ChannelConfig("https://t.me/s/ConfigsHUB2"),
-            ChannelConfig("https://t.me/s/FreakConfig"),
             ChannelConfig("https://t.me/s/v2rayNG_021"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
             ChannelConfig("https://t.me/s/FreeV2rays"),
             ChannelConfig("https://t.me/s/DirectVPN"),
             ChannelConfig("https://t.me/s/VmessProtocol"),
             ChannelConfig("https://t.me/s/flyv2ray"),
-            ChannelConfig("https://t.me/s/free4allVPN"),
             ChannelConfig("https://t.me/s/configV2rayForFree"),
             ChannelConfig("https://t.me/s/shokhmiplus"),
             ChannelConfig("https://t.me/s/hormozvpn"),
-            ChannelConfig("https://t.me/s/nofiltering2"),
             ChannelConfig("https://t.me/s/vpnowl"),
             ChannelConfig("https://t.me/s/Artemisvpn1"),
             ChannelConfig("https://t.me/s/ShadowProxy66"),
             ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/V2rayNG3"),
-            ChannelConfig("https://t.me/s/free_config47"),
             ChannelConfig("https://t.me/s/CYGAG"),
             ChannelConfig("https://t.me/s/Awlix_ir"),
-            ChannelConfig("https://t.me/s/vmess_vless_v2rayng"),
             ChannelConfig("https://t.me/s/vpnfail_vless"),
             ChannelConfig("https://t.me/s/OutlineReleasedKey"),
             ChannelConfig("https://t.me/s/poroxybaz"),
-            ChannelConfig("https://t.me/s/ZibaNabz"),
             ChannelConfig("https://t.me/s/V2pedia"),
             ChannelConfig("https://t.me/s/xs_filternet")
         ]
@@ -97,8 +87,8 @@ class ProxyConfig:
         # Default values: min=3, max=25
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 5,    # Minimum configs required per protocol (default: 3)
-            "max": 25    # Maximum configs allowed per protocol (default: 25)
+            "min": 15,    # Minimum configs required per protocol (default: 3)
+            "max": 35    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
@@ -173,7 +163,7 @@ class ProxyConfig:
         # HTTP request settings
         self.MAX_RETRIES = 10            # Maximum number of retry attempts (default: 10)
         self.RETRY_DELAY = 15            # Delay between retries in seconds (default: 15)
-        self.REQUEST_TIMEOUT = 90        # Request timeout in seconds (default: 60)
+        self.REQUEST_TIMEOUT = 60        # Request timeout in seconds (default: 60)
         
         # HTTP request headers (default User-Agent and other headers)
         self.HEADERS = {
