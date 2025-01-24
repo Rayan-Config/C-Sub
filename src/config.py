@@ -76,7 +76,6 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/free4allVPN"),
             ChannelConfig("https://t.me/s/configV2rayForFree"),
             ChannelConfig("https://t.me/s/UnlimitedDev"),
-            ChannelConfig("https://t.me/s/xs_filternet"),
             ChannelConfig("https://t.me/s/shokhmiplus"),
             ChannelConfig("https://t.me/s/hormozvpn"),
             ChannelConfig("https://t.me/s/nofiltering2"),
