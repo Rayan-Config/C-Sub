@@ -6,12 +6,6 @@
 
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?security=&fp=chrome&type=ws&path=/?ed%3D2048&host=mmd.ir&encryption=none#@Daily_Configs
 
-vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#telegram🛸DailyV2ry
-
-vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#telegram🚀DailyV2ry
-
-vless://05340dba-aefc-5898-a3cd-73b76b1eb656@45.153.230.228:2052?path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL&security=none&encryption=none&type=ws#%40shokhmiplus
-
 vless://05340dba-aefc-5898-a3cd-73b76b1eb656@45.153.230.228:2052?security=&fp=chrome&type=ws&path=/vless&encryption=none
 
 vless://054d503d-4748-47a6-8118-71a96c51f2d9@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/VLESS&host=fr-2-vpr.maxima.us.kg&encryption=none#Rayan%20-%20RVP%20-%20GC%20-%20nl-2-v-2
@@ -30,23 +24,17 @@ vless://06aa1d12-d67d-4579-b623-ae6c671c7796@wedbaz-sweden.zpowerio.ir:443/?type
 
 vless://06aa1d12-d67d-4579-b623-ae6c671c7796@wedbaz-sweden.zpowerio.ir:443?security=reality&encryption=none&pbk=fYduc27KzmdrSI1S_LCBUxk3zDSe69dA5uKieS2oUEE&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%40Artemisvpn1
 
-vless://06aa1d12-d67d-4579-b623-ae6c671c7796@wedbaz-sweden.zpowerio.ir:443?security=reality&encryption=none&pbk=fYduc27KzmdrSI1S_LCBUxk3zDSe69dA5uKieS2oUEE&headerType=none&fp=chrome&type=tcp&sni=refersion.com#kurd3
-
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&sni=147135011033.sec21org.com&alpn=h2,http/1.1&fp=chrome&type=tcp&encryption=none
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443?security=tls&sni=147135011033.sec21org.com&fp=chrome&type=tcp&encryption=none#%F0%9F%9B%A0%EF%B8%8F36@oneclickvpnkeys
 
 vless://0e011c1d-8227-4c0d-afcf-d2f1ff45c173@81.28.12.12:443?security=tls&sni=gcore.com&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us-fjjkfhk5.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20us-1-h-1
 
-vless://0e952311-8116-451a-8de2-07e43a14f7ef@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=wlm8hd.kalastore.org&type=ws&alpn=http/1.1&host=wlm8hd.kalastore.org&path=/wss#telegram 🍊 DailyV2ry
-
 vless://0ee275fd-726e-4d7e-a7ef-c429982974c3@104.16.166.158:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&host=f1b953bd-round-bush-dba2.steep-lion9627.workers.dev&fp=randomized&type=ws&sni=f1b953bd-round-bush-dba2.steep-lion9627.workers.dev#@meli_proxyy
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443/?type=tcp&encryption=none&security=tls&sni=se1.fromblancwithlove.com&alpn=h2#@meli_proxyy
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#%40Artemisvpn1
-
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#kurd6
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#@meli_proxyy
 
@@ -58,11 +46,7 @@ vless://157448af-8ecf-4075-a9e9-b23a6a94899b@195.181.166.87:8443?security=tls&sn
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443/?type=tcp&encryption=none&security=tls&sni=se1.fromblancwithlove.com&alpn=h2#@meli_proxyy
 
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#kurd5
-
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#@meli_proxyy
-
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&encryption=none&headerType=none&type=tcp&sni=se1.fromblancwithlove.com#%40shokhmiplus
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@79.127.249.104:8443?security=tls&sni=se1.fromblancwithlove.com&alpn=h2&fp=chrome&type=tcp&encryption=none#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
 
@@ -104,13 +88,25 @@ vless://157448af-8ecf-4075-a9e9-b23a6a94899b@yyz-ca-01.fromblancwithlove.com:844
 
 vless://17048918-7cc2-4896-87e8-a1f68e168d56@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=is1-hhhd42.maxima.us.kg&encryption=none#Rayan%20-%20VPH%20-%20GC%20-%20is-1-1
 
+vless://184997d9-a803-4e6d-ef6f-ed338d09e8ec@91.107.189.190:5650?security=reality&encryption=none&pbk=o6-d1-GMZlIpW1yNIvKtwYNxTotEiVzfbSzUTsV7bnU&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%40Artemisvpn1
+
+vless://1c97026e-b251-5439-80a7-90b746a3ba3b@bwdraper.faculty.ucdavis.edu:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-10.com&encryption=none#Rayan%20-%20SSO%20-%20FL%20-%20F-10-NO-I
+
+vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.153.183.129:3237?security=&fp=chrome&type=tcp&encryption=none#%F0%9F%9B%A0%EF%B8%8F33@oneclickvpnkeys
+
+vless://1e56e60a-f5b4-443f-81b0-9b8593c73e61@185.235.137.85:59549?security=reality&encryption=none&pbk=9Zsv8K_EsD5IlY2Tv-o88ON512N5Kye6ZGBfeL2TdWc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mmd.1.dragonspeed.ir#%40Artemisvpn1
+
+vless://1f6fa0d9-2afb-4671-8972-297b62d3cc48@81.28.12.12:443?security=tls&sni=gcore.lu&allowInsecure=1&fp=chrome&type=ws&path=/serverssh&host=pl-r-1.maxima.us.kg&encryption=none#Rayan%20-%20SVS%20-%20GC%20-%20pl-1-1
+
+vless://22dbf6b9-58e2-5f4c-9a3c-2c92d7b47126@95.164.46.39:2052?security=&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#@TRICK_MOBIL
+
+vless://241cc6d6-3f35-551e-a8ce-7af4dfa29ed3@95.164.46.39:80?path=%2Fvless%3Fed%3D2408&security=none&encryption=none&host=it2.v2vless.sitespeedtest.net&type=ws#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+
+vless://241cc6d6-3f35-551e-a8ce-7af4dfa29ed3@it2.v2vless.sitespeedtest.net:80?path=%2Fvless%3Fed%3D2408&security=none&encryption=none&host=it2.v2vless.sitespeedtest.net&type=ws#%40vpnfail_bot%20free%v2ray🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
+
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDkuMTIuMTg4LjIyMiIsInBvcnQiOjE5MjI4LCJpZCI6IjI5NGJlMDdkLTRjNGUtNDc1NC04YTE3LTM1YWM5NmQ4NWFhMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTUuMjE3LjIyMi4xNDgiLCJwb3J0IjoyMDk4NiwiaWQiOiJjZDU0ZWQ5NC05YTQ5LTQ2M2EtOGJjNS02YmNkYTdjZDVmMWIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
-
-vmess://eyJhZGQiOiAibGluMDUwMi5od2Nhci5zYnMiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAibGluamEwNS5od2Nhci5zYnMiLCAiaWQiOiAiMzljZWMxOGYtYTQzOS00MjdjLTlhNGUtYWViNmZjZGY2ZjUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYgXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJsaW5qYTA1Lmh3Y2FyLnNicyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
-
-vmess://eyJhZGQiOiI0NS43Ni4yNTIuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1vaS5pciIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4ODgxIiwicHMiIDogInRlbGVncmFt8J+UrkRhaWx5VjJyeSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI0OS4xMi4xODguMjIyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdkMTM5NDRmLWM2ZWMtNGMyZS04M2Q4LTM3MWM5Mzg2MGU4YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA1OTYiLCJwcyI6IkBBcnRlbWlzdnBuMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
@@ -132,7 +128,11 @@ vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidXMtNTlnaGpra2trLm1h
 
 vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoidXMtOTIwbm1rbC5tYXhpbWEudXMua2ciLCJpZCI6ImI2MjY3YmYwLWRhNjUtMTFlZi1iNzM4LTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii91cmtoYTgyMCIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gRlNTIC0gR0MgLSB2YS0xLWMtMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnY29yZS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
-vmess://eyJhZGQiOiI5Ni4zMC4xOTMuMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1vaS5pciIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4ODgxIiwicHMiIDogInRlbGVncmFt8J+MgkRhaWx5VjJyeSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCJpZCI6Ijk0ZjMzMmIwLWM1ZDMtNDUzMS1hMWQ2LTZlNjM1OGNjNmM3MiIsIm5ldCI6Imh0dHB1cGdyYWRlIiwicGF0aCI6Ii9kM2QzTG1seVlXNW9iM04wTG1OdmJRXHUwMDNkXHUwMDNkP2VkXHUwMDNkMjU2MCIsInBvcnQiOiIyMDk1IiwicHMiOiJb8J+HqPCfh6ZddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+
+vmess://eyJhZGQiOiIxNzIuNjcuMTM2LjIzMyIsImFpZCI6IjAiLCJob3N0IjoiYXowNS5iZXlvbmR5LmNmZCIsImlkIjoiM2Y2MzhmMzQtOGRiYS00MTg2LWJjNDMtMjcxNmE3ZGRkNGJlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJNY2ktQFYycmF5X0FscGhhLTExIiwic2N5IjoiYXV0byIsInNuaSI6ImF6MDUuYmV5b25keS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#%40V2rayNG3
 
@@ -160,13 +160,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WTVkUjFjVTFkam1pWHNh@52.237.155.68:443?outl
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#@meli_proxyy
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFT2svYklqOFhFUjZiMGtqVlF4dU0vaUxNVEU3UDhoL1BUL1JDSTJaMndnPQ%3D%3D@45.150.32.46:37904#%E2%9A%9C%EF%B8%8FTelegram%3A%20%40shokhmiplus%20%F0%9F%87%A9%F0%9F%87%AA
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSVlwY2N2OUFsQkhabWtZ@52.237.155.68:443?outline=1&prefix=POST%20T2ad83dL#Rayan - SS - IFI - S3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook - S1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:49264#@meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMkkwTXpNMg%3D%3D@95.164.68.37:8388#@meli_proxyy
 
 trojan://1052e8e0-da25-11ef-917f-1239d0255272@fr1.test3.net:443/www.speedtest.net?sni=www.speedtest.net#@meli_proxyy
 
