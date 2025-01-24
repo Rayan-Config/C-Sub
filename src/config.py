@@ -55,32 +55,14 @@ class ProxyConfig:
             ChannelConfig("https://Rayan-Config.github.io/ALL"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/prrofile_purple"),
             ChannelConfig("https://t.me/s/meli_proxyy"),
-            ChannelConfig("https://t.me/s/ViProxys"),
-            ChannelConfig("https://t.me/s/heyatserver"),
-            ChannelConfig("https://t.me/s/hajmvpn"),
             ChannelConfig("https://t.me/s/ConfigsHUB2"),
-            ChannelConfig("https://t.me/s/v2rayNG_021"),
             ChannelConfig("https://t.me/s/DailyV2RY"),
-            ChannelConfig("https://t.me/s/FreeV2rays"),
-            ChannelConfig("https://t.me/s/DirectVPN"),
-            ChannelConfig("https://t.me/s/VmessProtocol"),
-            ChannelConfig("https://t.me/s/flyv2ray"),
-            ChannelConfig("https://t.me/s/configV2rayForFree"),
             ChannelConfig("https://t.me/s/shokhmiplus"),
-            ChannelConfig("https://t.me/s/hormozvpn"),
             ChannelConfig("https://t.me/s/Artemisvpn1"),
-            ChannelConfig("https://t.me/s/ShadowProxy66"),
-            ChannelConfig("https://t.me/s/v2ray_free_conf"),
             ChannelConfig("https://t.me/s/V2rayNG3"),
-            ChannelConfig("https://t.me/s/CYGAG"),
-            ChannelConfig("https://t.me/s/Awlix_ir"),
             ChannelConfig("https://t.me/s/vpnfail_vless"),
-            ChannelConfig("https://t.me/s/OutlineReleasedKey"),
-            ChannelConfig("https://t.me/s/poroxybaz"),
-            ChannelConfig("https://t.me/s/V2pedia"),
-            ChannelConfig("https://t.me/s/xs_filternet")
+            ChannelConfig("https://t.me/s/Rayan_Proxy_Hub")
         ]
 
         # Global limits for number of configs per protocol
@@ -88,7 +70,7 @@ class ProxyConfig:
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
             "min": 3,    # Minimum configs required per protocol (default: 3)
-            "max": 35    # Maximum configs allowed per protocol (default: 25)
+            "max": 200    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
@@ -146,7 +128,7 @@ class ProxyConfig:
 
         # Channel-specific configuration limits
         self.MIN_CONFIGS_PER_CHANNEL = 1     # Minimum configs required from each channel (default: 3)
-        self.MAX_CONFIGS_PER_CHANNEL = 20    # Maximum configs allowed from each channel (default: 50)
+        self.MAX_CONFIGS_PER_CHANNEL = 50    # Maximum configs allowed from each channel (default: 50)
         self.MAX_CONFIG_AGE_DAYS = 7        # Maximum age of configs in days (default: 90)
         self.CHANNEL_RETRY_LIMIT = 10        # Maximum retry attempts per channel (default: 10)
         self.CHANNEL_ERROR_THRESHOLD = 0.7   # Error rate threshold to disable channel (default: 0.7 or 70%)
