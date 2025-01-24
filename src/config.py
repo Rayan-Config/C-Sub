@@ -53,12 +53,7 @@ class ProxyConfig:
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         self.SOURCE_URLS = [
             ChannelConfig("https://Rayan-Config.github.io/ALL"),
-            ChannelConfig("https://t.me/s/IP_CF_Config"),
-            ChannelConfig("https://t.me/s/meli_proxyy"),
-            ChannelConfig("https://t.me/s/ConfigsHUB2"),
-            ChannelConfig("https://t.me/s/Artemisvpn1"),
-            ChannelConfig("https://t.me/s/V2rayNG3"),
-            ChannelConfig("https://t.me/s/vpnfail_vless"),
+            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"),
             ChannelConfig("https://t.me/s/Rayan_Proxy_Hub")
         ]
 
@@ -67,7 +62,7 @@ class ProxyConfig:
         # Adjust these values to control how many configs of each type are collected
         self.PROTOCOL_CONFIG_LIMITS = {
             "min": 3,    # Minimum configs required per protocol (default: 3)
-            "max": 300    # Maximum configs allowed per protocol (default: 25)
+            "max": 500    # Maximum configs allowed per protocol (default: 25)
         }
 
         # Supported proxy protocols configuration
