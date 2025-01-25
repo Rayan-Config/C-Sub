@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-25T09:10:48.911956+00:00",
+  "timestamp": "2025-01-25T10:09:39.347442+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -8,11 +8,11 @@
         "total_configs": 20160,
         "valid_configs": 140,
         "unique_configs": 140,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.1,
-        "last_success": "2025-01-25T09:10:42.306173+00:00",
+        "overall_score": 75.0,
+        "last_success": "2025-01-25T10:09:30.303400+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -25,17 +25,40 @@
       }
     },
     {
+      "url": "https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt",
+      "enabled": true,
+      "metrics": {
+        "total_configs": 36,
+        "valid_configs": 4,
+        "unique_configs": 4,
+        "avg_response_time": 0.1,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 77.62,
+        "last_success": "2025-01-25T10:09:32.408841+00:00",
+        "protocol_counts": {
+          "wireguard://": 0,
+          "hysteria2://": 0,
+          "vless://": 0,
+          "vmess://": 0,
+          "ss://": 4,
+          "trojan://": 0,
+          "tuic://": 0
+        }
+      }
+    },
+    {
       "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 27054,
         "valid_configs": 162,
         "unique_configs": 162,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.15,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.09,
-        "last_success": "2025-01-25T09:10:46.472911+00:00",
+        "overall_score": 74.93,
+        "last_success": "2025-01-25T10:09:36.661549+00:00",
         "protocol_counts": {
           "wireguard://": 14,
           "hysteria2://": 4,
@@ -51,21 +74,21 @@
       "url": "https://t.me/s/Rayan_Proxy_Hub",
       "enabled": true,
       "metrics": {
-        "total_configs": 187,
-        "valid_configs": 144,
-        "unique_configs": 144,
-        "avg_response_time": 0.4,
+        "total_configs": 291,
+        "valid_configs": 230,
+        "unique_configs": 230,
+        "avg_response_time": 0.63,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 93.65,
-        "last_success": "2025-01-25T09:10:48.910721+00:00",
+        "overall_score": 93.82,
+        "last_success": "2025-01-25T10:09:39.346267+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 4,
-          "vless://": 117,
-          "vmess://": 10,
-          "ss://": 10,
-          "trojan://": 3,
+          "hysteria2://": 6,
+          "vless://": 182,
+          "vmess://": 13,
+          "ss://": 25,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
