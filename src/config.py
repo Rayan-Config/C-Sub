@@ -53,6 +53,7 @@ class ProxyConfig:
         # Add or remove channels here. Each ChannelConfig takes a URL and enabled status (default: True)
         self.SOURCE_URLS = [
             ChannelConfig("https://Rayan-Config.github.io/ALL"),
+            ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"),
             ChannelConfig("https://t.me/s/Rayan_Proxy_Hub")
         ]
