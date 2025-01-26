@@ -296,13 +296,15 @@ trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sn
 
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443/?type=tcp&security=tls&sni=hk03.trojanyyds.xyz#@VIProxys  🌐 #آمریکا #دابسمش #vpn 🌐🙏🏼 چنل رو با دوستانتون به اشتراک بگذارید تا اونها هم از کانفیگ های رایگان بهرمند بشن 🙏🏼
 
-trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443/?type=tcp&security=tls&sni=hk03.trojanyyds.xyz#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.194.64:46002?#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.194.64:46002?#🔒
+
+trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@103.77.247.224:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@103.77.247.224:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#🔒
 
@@ -391,8 +393,6 @@ trojan://telegram-id-directvpn@16.16.72.141:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@16.16.72.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://telegram-id-directvpn@174.129.161.43:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
-
-trojan://telegram-id-directvpn@18.119.21.16:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
 ss://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@live.skornorth.com:443?type=grpc&serviceName=Telegram
 
