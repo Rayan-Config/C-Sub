@@ -428,21 +428,25 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.42.241:443#@mel
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.66.234:443#%40V2rayNGVPN
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4THEweVpmd2pjcUsyUzllQ3hXNVRa@13.51.255.203:18065/?POST%20#Server-3
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4THEweVpmd2pjcUsyUzllQ3hXNVRa@13.51.255.203:18065/?POST%20#Server-4
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WTVkUjFjVTFkam1pWHNh@52.237.155.68:443?outline=1&prefix=POST%20R2ad83eV#Rayan - SS - IFI - S4
 
 
 
 SSHmax FASTLY :
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUWx3TmxVd3IzVzhtblRKc0xlcTFz@16.16.90.193:62025/?POST%20#Server-1
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUWx3TmxVd3IzVzhtblRKc0xlcTFz@16.16.90.193:62025/?POST%20#Server-2
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJSVlwY2N2OUFsQkhabWtZ@52.237.155.68:443?outline=1&prefix=POST%20T2ad83dL#Rayan - SS - IFI - S3
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#Rayan - SS - VPNBook - S1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXSjlzZ3ZCWWR0NFN5ZHd4@52.237.155.68:443?outline=1&prefix=POST%20U2ad83cZ#Rayan - SS - IFI - S2
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdjBHT1ZjakY3dUljRzFXaXJKbzdz@51.20.18.67:35093/?POST%20#Server-1
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdjBHT1ZjakY3dUljRzFXaXJKbzdz@51.20.18.67:35093/?POST%20#Server-2
 
 wireguard://%2BJgPBrE1e94fdBkNHAyWO4vn%2B0eWv7S2G0XCW180aUY%3D@162.159.192.155:7156?address=172.16.0.2%2F32&reserved=19%2C223%2C50&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-01-27 10:01
 
