@@ -222,7 +222,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiQFZJUHJveHlzIiwiYWRkIjoiNS4zOS4yNTQuMTk2IiwicG9ydCI6
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjE0OS4xODMuMTc4IiwicG9ydCI6IjI3NTEyIiwiaWQiOiI5NmQzODY4My0wODE3LTRkOTEtYmZmYS02ZjAzZGYxOGQ5ZGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAuMjEzLjIwLjE4NSIsInBvcnQiOiIxNzcxOCIsImlkIjoiYzIwNmUwMjItMzRjNi00ZmUzLWEyMzItYjljMDdiYTMxNjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTk0LjkuMTcyLjY1IiwicG9ydCI6IjQ0MyIsImlkIjoiOGQ5MGMxMjktNDE1Ni00ZDZjLTkxMTUtMjRkZjI1ZjI2YTAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiItLS0iLCJob3N0IjoiYmV5b25kZGJjLnNicyIsInBhdGgiOiJcL2xpbmt3cyIsInRscyI6InRscyIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 
 vmess://eyJhZGQiOiAiMTA0LjE3LjE0OC4yMiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJldS0yLmhpaHUubmV0IiwgImlkIjogIjM2OGJmMDMwLWRiNTEtMTFlZi1iMzM2LTIwNWM2ZDVmNWQ3OCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIveGE2Mnp2bGUiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tV1MtTkEgXHVkODNjXHVkZmY0XHUyMDBkXHUyNjIwXHVmZTBmIE5BLTEwNC4xNy4xNDguMjI6ODAiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
@@ -252,8 +252,6 @@ vmess://eyJhZGQiOiI0NS44LjE1OS4yNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiI0NS4xOTkuMTM4LjE1OSIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOTU0OWEyY2YtMTI5Yi00M2ExLTg4ZGItZWY3ZjY0OGRlNzRhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODMzNSIsInBzIjoiQFNlcnZlck5ldHQgTXRuIFVubGltaXRlZCAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiI0NS4zMi4yMTguODciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im1vaS5pciIsImlkIjoiZGI1YWZhZTQtYWMyMy00MWE2LTgzNzgtZjMwN2E5YTQ3NDM2IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI4ODgxIiwicHMiOiAidGVsZWdyYW0g8J+MiCBEYWlseVYycnkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
 vmess://eyJhZGQiOiI3OS4xMjcuMjI5LjU0IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImZhMTg5N2RiLTE5MjUtNGM4Ni1hNDk1LTkzOWE5NTlhZjkwMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCflJIgVk0tVENQLU5BIPCfh7Lwn4e9IE1YLTc5LjEyNy4yMjkuNTQ6MTgwMDAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI4MS4yOC4xMi4xMiIsImFpZCI6IjAiLCJob3N0IjoiZXUtODk2Z2pqa2xsLm1heGltYS51cy5rZyIsImlkIjoiMGY4NDgzZDAtZGIzZS0xMWVmLWI2MzktMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL3RuZGlzNTQ4IiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBGU1MgLSBHQyAtIGV1LTEtYy0xIiwic2N5IjoiYXV0byIsInNuaSI6Imdjb3JlLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -272,6 +270,8 @@ vmess://eyJhZGQiOiIxMDQuMTYuMTU1LjEwIiwiYWlkIjoiMCIsImhvc3QiOiIxMDAtNDQtNzAtODAu
 
 vmess://eyJhZGQiOiIxMDQuMTcuMTQ4LjIyIiwiYWlkIjoiMCIsImhvc3QiOiJldS0yLmhpaHUubmV0IiwiaWQiOiIzNjhiZjAzMC1kYjUxLTExZWYtYjMzNi0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIveGE2Mnp2bGUiLCJwb3J0IjoiODAiLCJwcyI6IvCflJIgVk0tV1MtTkEg8J+PtOKAjeKYoO+4jyBOQS0xMDQuMTcuMTQ4LjIyOjgwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiIxMDQuMjEuMzIuMSIsImFpZCI6IjAiLCJob3N0IjoibmwuODk5OTk0Lnh5eiIsImlkIjoiYTA2MDU1MjctMjhlNC00NDljLTgwZWUtNTY0MmNjMTZhOGFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2luZGV4IiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCflJIgVk0tV1MtVExTIPCfj7TigI3imKDvuI8gTkEtMTA0LjIxLjMyLjE6ODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJubC44OTk5OTQueHl6IiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9
+
 trojan://0000000@52.85.132.46:443?security=tls&sni=www.lovelive-anime.jp&type=tcp#https://t.me/ShadowsocksM
 
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443?security=tls&sni=hk03.trojanyyds.xyz&type=tcp#https://t.me/ShadowsocksM
@@ -280,9 +280,13 @@ trojan://2b39bbdd-a565-4f8e-b6b6-6b034b2076f4@naiu-us.05vr9nyqg5.download:13022?
 
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#Channel%20id%3A%20%40ShadowProxy66%20🌍 Country: United Kingdom 🇬🇧📍 Region: England🏙 City: Telford📬 Zip Code: TF7 4QN🌐 ISP: Reach Internet
 
+trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&type=tcp#https://t.me/ShadowsocksM
 
 trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=tls&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://3723507166611775488@91.206.179.179:443?security=tls&headerType=none&type=tcp&sni=holy-seahorse.boa152.lol#@VIProxys
 
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
@@ -297,6 +301,8 @@ trojan://3763495894587285504@clever-chimp.goat627.mom:443?security=tls&sni=cleve
 trojan://3763495894587285504@right-goldfish.goat627.mom:443?security=tls&sni=right-goldfish.goat627.mom&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://3763495894587285504@useful-honeybee.treefrog761.one:443?security=tls&sni=useful-honeybee.treefrog761.one&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
+
+trojan://3763495982449565696@185.67.125.160:443?security=tls&sni=topical-gibbon.goat627.mom&type=tcp#🚀@FastFreeConfig
 
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online&type=tcp#https://t.me/ShadowsocksM
 
@@ -366,12 +372,6 @@ trojan://telegram-id-directvpn@3.138.75.159:22222?security=tls&sni=trojan.burger
 
 trojan://telegram-id-directvpn@3.147.153.187:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
-trojan://telegram-id-directvpn@3.148.15.49:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@3.20.245.43:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM#https://t.me/ShadowsocksM
-
-trojan://telegram-id-directvpn@3.23.207.118:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
-
 ss://241cc6d6-3f35-551e-a8ce-7af4dfa29ed3@it2.v2vless.sitespeedtest.net:80?security=&type=ws&path=/vless?ed%3D2408&host=it2.v2vless.sitespeedtest.net&encryption=none#@VIProxys
 
 ss://27fvv71p77-977-977-9RzTvv73vv71dce-_ve-_ve-_ve-_vX5_R3xp77-977-977-9zZs627fvv71p77-977-977-9RzTvv73vv71dce-_ve-_ve-_ve-_vX5_R3xp77-977-977-9zZs=@77.91.101.131:2052#https://t.me/ShadowsocksM
@@ -384,8 +384,6 @@ ss://3940f94b-baef-414a-831f-05aa69d8476d@hajlab.ucdavis.edu:443?path=@Maznet--@
 
 ss://4b276ec6-9ed5-407b-cbe4-a7ffcf17d3bf@217.69.8.218:8080?type=ws&security=none&path=%2F#@VIProxys
 
-ss://4db2e965-f5f1-40f3-f43d-67c8f523df46@tify-binex-join.espikernajafi.ir:6666/?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#@VIProxys
-
 ss://4db2e965-f5f1-40f3-f43d-67c8f523df46@tify-binex-join.espikernajafi.ir:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy%2F%40BinexTiFy#@VIProxys
 
 ss://4e54854f-c445-5000-9437-dd21f1d85d64@95.164.84.131:2052?security=&sni=no2.vless.site&type=grpc&serviceName=vless-grpc&encryption=none#@VIProxys
@@ -394,7 +392,7 @@ ss://5b4c69b1-77a9-4aa8-bd7e-72460b002ff3@hajlab.ucdavis.edu:443?security=tls&sn
 
 ss://6eb76e4f-ecf9-43c5-da5e-8c7bb1af3692@tuae.amin8263.ir:2053?path=%2F@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android/@Archive_Android%3Fed%3D2048&security=&encryption=none&type=ws#@VIProxys
 
-ss://8f61cfba-fb55-4bd4-b804-e3013996b82b@tify-binex-join.espikernajafi.ir:2053/?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560&security=none&encryption=none&host=chess.com&type=ws#@VIProxys
+ss://92dc14c5-e2b0-41bc-9827-1b687295c530@43.198.224.54:28204?security=reality&encryption=none&pbk=EHpXGCsdeDDLP-0ZXq8xxgrX3rzF2Mc6A5FsVQvoUhQ&headerType=none&fp=ios&type=tcp&sni=s0.awsstatic.com&sid=bbd6eecb#@VIProxys
 
 ss://98969fb8-d990-4bcb-a904-619ed0861daa@172.64.32.85:443?security=tls&sni=qi1rdu.fivegravity.com&type=ws&host=qi1rdu.fivegravity.com&path=/wss&alpn=http/1.1#@VIProxys
 
@@ -407,10 +405,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.141:8080#https://t.me/ShadowsocksM
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%40V2rayNG3🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#%F0%9F%92%BBTelegram%3A+%40mortezatv
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#2MCI-%40V2ray_Alpha
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMElLdWlTejhxQ3hsb3ZURUtrd2d4@13.51.172.229:6749/?POST%20#Server-3
 
@@ -427,6 +421,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMHpjOFY2VWkyWWY4SjlIREdZQ0hI@62.133.63.21:6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWZlZmNjMy05YWUxLTRlMDEtYTFkMC01MzRmYzE2NzExMjE=@61.111.247.242:40032#%F0%9F%87%B0%F0%9F%87%B7KR%20%7C%20@OutlineReleasedKey🔸Outline Keys🔸Vless|Trojan|Hysteria1/2|TUIC Keys💠Premium Outline|Vless-Reality Keys Bot💠#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE%3D@188.253.5.199:40005#%40V2rayNGVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@188.253.5.199:40005#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@OutlineReleasedKey🔸Outline Keys🔸Vless|Trojan|Hysteria1/2|TUIC Keys💠Premium Outline|Vless-Reality Keys Bot💠#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4MjgzRkE=@210.87.111.151:40005#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@OutlineReleasedKey🔸Outline Keys🔸Vless|Trojan|Hysteria1/2|TUIC Keys💠Premium Outline|Vless-Reality Keys Bot💠#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.56.187:443#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WTVkUjFjVTFkam1pWHNh@52.237.155.68:443?outline=1&prefix=POST%20R2ad83eV#Rayan - SS - IFI - S4
 
@@ -455,8 +455,6 @@ wireguard://2KRaTDfgMz7BQbCty1CtwOmXhW%2FLQoUftYRx6IH9vE4%3D@188.114.98.166:3476
 wireguard://6Pl%2F%2BnCcCW9jMycRavy%2FoUxyoMMbSd9QcV5DYuuaHGU%3D@162.159.195.136:3581?address=172.16.0.2%2F32&reserved=214%2C117%2C142&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
 wireguard://6Pl%2F%2BnCcCW9jMycRavy%2FoUxyoMMbSd9QcV5DYuuaHGU%3D@162.159.195.136:3581?address=172.16.0.2%2F32&reserved=214%2C117%2C142&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-wireguard://IG4OhbeLq6wyquDZQJjDD%2Fdw1Ovemfp62zdlEQT5g3M%3D@188.114.96.61:1002?address=172.16.0.2%2F32&reserved=152%2C14%2C144&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://KDR8fvwbwXAx4YHdC%2F%2B7p7kVRzvbIvwc352FpWjFPmA%3D@162.159.192.171:7559?address=172.16.0.2%2F32&reserved=174%2C223%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
 
