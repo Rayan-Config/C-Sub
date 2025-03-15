@@ -34,12 +34,6 @@ vless://06dc9c3c-78ee-544a-88a6-2240e5bf6f23@45.89.55.188:8880?security=&fp=chro
 
 vless://073d0f96-492a-413a-885e-56af1704f2e1@104.19.54.50:8080?path=%2FTelegram----VPN%2543%2555%2553%2554OMIZE----VPN%2543%2555%2553%2554OMIZE----VPN%2543%2555%2553%2554OMIZE---VPN%2543%2555%2553%2554OMIZE---VPN%2543%2555%2553%2554OMIZE---VPN%2543%2555%2553%2554OMIZE%3Fed%3D2048%23%3D%2F%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn%2C%40bored_vpn%2C--%40bored_vpn&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws&sni=vpncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-Ip.Net#%F0%9F%9B%97%20%40AcccrDNet%20%F0%9F%9B%97
 
-vless://073d0f96-492a-413a-885e-56af1704f2e1@104.19.54.50:8080?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws&sni=vpncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-Ip.Net#%40v2ryNG01.%20%20%20%D8%B3%D8%B1%D9%88%D8%B12%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
-
-vless://073d0f96-492a-413a-885e-56af1704f2e1@104.19.54.50:8080?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws&sni=vpncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-Ip.Net#@Capoit
-
-vless://073d0f96-492a-413a-885e-56af1704f2e1@104.19.54.50:8080?path=%2FTelegram----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws&sni=vpncustomize.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-Ip.Net#All-%40NOFILTERING2%20%F0%9F%87%AB%F0%9F%87%AE
-
 vless://07f0b3e7-81c3-46e8-a6af-32cc02e1feb2@173.245.59.132:2053/?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=almze.gt-ov.com&fp=chrome&type=ws&sni=almze.gt-ov.com#@VIProxys
 
 vless://082d02ee-333d-4e01-83e2-3989803a17fb@alyaf.com.alyaf.com:445?type=tcp&security=none#telegram 🚀 DailyV2ry
@@ -69,6 +63,12 @@ vless://0cccde0f-c494-4f5a-8693-a953c0af1789@whatismyipaddress.com:2096?security
 vless://0cccde0f-c494-4f5a-8693-a953c0af1789@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s29.elitemizban.ir&fp=#telegram 🎯 DailyV2ry
 
 vless://0cccde0f-c494-4f5a-8693-a953c0af1789@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s30.elitemizban.ir&fp=#telegram 🎯 DailyV2ry
+
+vless://0cccde0f-c494-4f5a-8693-a953c0af1789@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s31.elitemizban.ir&fp=#telegram 🎯 DailyV2ry
+
+vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#%40meli_proxyy
+
+vless://0cfebfbf-5dfb-430f-918f-6805c9f38b13@185.234.247.110:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#3All-%40m_vipv2ray
 
 vless://10f466c6-84f6-406c-95b5-e4cb19a27b03@pscresearch.faculty.ucdavis.edu:80?security=&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-6.com&encryption=none#Rayan%20-%20GSS%20-%20FL%20-%20F-6%20-%20AT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
 
@@ -280,9 +280,9 @@ ss://9d0a75d2-f747-4afa-b43f-d208af9e8f9a@193.123.81.17:443/?security=reality&en
 
 ss://TELEGRAM-NUFiLTER-0c81fd203b57@NUFiLTER.fastly80-3.hosting-ip.com:80/?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=kazemi21zerofun.com&type=ws#@VIProxys
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#%40V2rayNG3🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%40NIM_VPN_ir
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%40NIM_VPN_ir
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@sto2.g.edgeservers.org:15128/?POST%20#Server-2
 
@@ -352,11 +352,11 @@ trojan://Qp3Vk8YmXs@z-v2-086676.kailib.com:443?sni=ash.f3f93b29-43d0-4aa1-87c5-5
 
 trojan://bpb-trojan@104.21.75.193:443?path=%2Ftr%3Fed%3D2560&security=tls&alpn=h3&host=bpb-hd.aaronchin.xyz&fp=randomized&type=ws&sni=bpb-hd.aaronchin.xyz#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
+trojan://bpb-trojan@162.159.152.2:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr%3Fed%3D2560&security=tls&sni=zamim340.ggff.net&allowInsecure=1#%F0%9F%8D%9376%40oneclickvpnkeys
+
 trojan://bv4kWm6T3P8Y@z-v2-084732.kailib.com:443?sni=ash.5d763913-78d9-47ba-b1da-0c94e50b69da.kailib.com#telegram 🎯 DailyV2ry
 
 trojan://bv4kWm6T3P8Y@z-v2-084748.kailib.com:443?sni=ash.d22e0961-e0a7-49b8-8259-eac71e24d27b.kailib.com#telegram 🌈 DailyV2ry
-
-trojan://bv4kWm6T3P8Y@z-v2-084748.kailib.com:443?sni=ash.d22e0961-e0a7-49b8-8259-eac71e24d27b.kailib.com#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://bv4kWm6T3P8Y@z-v2-084757.kailib.com:443?sni=ash.b495fdd7-be5f-4409-99b3-f725f6bca02e.kailib.com#telegram ⚡️ DailyV2ry
 
@@ -432,8 +432,6 @@ vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyIiwiYWlkIjoiMCIsImhvc3QiOiJwYW5lbC5TRVlZRURt
 
 vmess://eyJhZGQiOiIxMDQuMTcuMjMzLjg2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIyODAwMDAwMDAwMC5mYXN0cm9vdC5pciIsImlkIjoiMWQxNDgzZjItN2JlYS01ZTk5LWFkNjQtOGRlY2IxNTBkMDZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiKEBWbWVzc1Byb3RvY29sKdio2LHYp9uMINiu2LHbjNivINmIINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+HqfCfh6oiLCJzY3kiOiJub25lIiwic25pIjoiMjgwMDAwMDAwMDAuZmFzdHJvb3QuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIxMDQuMTcuMjMzLjg2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIyODAwMDAwMDAwMC5mYXN0cm9vdC5pciIsImlkIjoiMWQxNDgzZjItN2JlYS01ZTk5LWFkNjQtOGRlY2IxNTBkMDZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5Ijoibm9uZSIsInNuaSI6IjI4MDAwMDAwMDAwLmZhc3Ryb290LmlyIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IjMwMNqv24zaryAzOdiqISDYqtiz2KrigIzYsdin24zar9in2Ybwn6SvVGlja1YyYm90QCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkBtZWxpX3Byb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
@@ -459,6 +457,8 @@ vmess://eyJhZGQiOiIxNzguMjM5LjE0NC4xOTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vmess://eyJhZGQiOiIxNzguMjM5LjE0NC4xOTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy56YXJhLmNvbSIsImlkIjoiNTg2YjkyNDQtMjc1Yy01NmNjLWJkMWUtNjZkMTQ0MDM0NDIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NvCfh6bwn4eqVUFFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxNzguMjM5LjE0NC4xOTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ind3dy56YXJhLmNvbSIsImlkIjoiNTg2YjkyNDQtMjc1Yy01NmNjLWJkMWUtNjZkMTQ0MDM0NDIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJlcmZhbiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4xNTgiLCJhaWQiOjAsImhvc3QiOiJqYWhma2poYS5jZmQiLCJpZCI6Ijk1MGRiNmFhLTQ5MjYtNDYxNi04MTZlLWVjMDMxMmRjYjg3YiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 
 vmess://eyJhZGQiOiIxODYuMTkwLjIxNS45MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
