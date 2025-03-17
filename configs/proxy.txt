@@ -70,51 +70,51 @@ vless://12454871-7c3e-4f2c-b232-75771a75bac5@91.107.243.247:443?security=reality
 
 vless://12454871-7c3e-4f2c-b232-75771a75bac5@91.107.243.247:443?security=reality&sni=mw7.hellont.ir&fp=chrome&pbk=yvdTIbOoLcSSISo3u8sESDllxZa0EArFZb0igdbbPAo&sid=4720f75a80&type=tcp&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%A9%F0%9F%87%AA%20DE-91.107.243.247:443
 
-vless://128fde49-c4d6-41e0-9176-156bf62527eb@199.232.117.84:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-5.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-5%20-%20ML%20-%2005%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://128fde49-c4d6-41e0-9176-156bf62527eb@199.232.121.6:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-5.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-5%20-%20ML%20-%2005%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
 vless://1329cbce-4b1f-4112-a3ea-99ba0dc8a895@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=iLlUMInaTED-Horse.onEEAT.co.&type=ws#telegram 🍀 DailyV2ry
 
 vless://138a09b2-6a45-470a-a77f-bf75bf40e509@54.37.78.215:36632?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85💥
 
 vless://13982e9d-23d7-4884-92ee-a674ccc80c31@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ENlIGhtENED-COnNEctIoN.oNEeAT.Co.&type=ws#telegram 🎪 DailyV2ry
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.128.139:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://176cff6a-25bc-4cfa-8da9-839ead9c6cf3@146.19.233.138:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=grpc&serviceName=vless-grpc&encryption=none#Rayan%20-%20VPH%20-%20gRPC-109%20-%20DE%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.128.175:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://176cff6a-25bc-4cfa-8da9-839ead9c6cf3@146.19.233.138:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=146.19.233.138&encryption=none#Rayan%20-%20VPH%20-%20WSCT-109%20-%20DE%20-%20%F0%9F%94%B5%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.133.24:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.143.9:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.134.132:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.150.192:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.134.212:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-12.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-12%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.155.241:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.139.210:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.158.144:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.140.180:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.159.231:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-11.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-11%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.141.25:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-12.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-12%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.160.154:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.145.179:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.160.68:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.148.76:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.163.178:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.152.64:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.165.146:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.154.176:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-12.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-12%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.170.187:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.154.58:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.181.101:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.160.232:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-12.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-12%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@140.248.187.86:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.163.85:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-12.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-12%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@151.101.231.229:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.164.167:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@151.101.56.31:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.169.48:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@151.101.71.163:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
-vless://15298f41-e80b-463a-b85b-0c903258a1c8@140.248.171.131:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-2.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-2%20-%20ML%20-%2002%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.103.47:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.143.255:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
+
+vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.64.71:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-1.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-1%20-%20ML%20-%2001%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.8.109.156:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@VIProxys
 
