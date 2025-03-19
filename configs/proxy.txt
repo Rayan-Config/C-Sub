@@ -216,8 +216,6 @@ trojan://3767107462583558144@194.62.96.160:443?security=tls&sni=subtle-seahorse.
 
 trojan://4d04b30c-ef7b-4a07-8f9e-f581ec171f8a@104.21.21.190:443?path=%2FZseq8mE8wMzbGFtV&security=tls&alpn=http%2F1.1&host=us7-04.890606.xyz&fp=chrome&type=ws&sni=US7-04.890606.XYz#%40V2rayNGVPN
 
-trojan://4d04b30c-ef7b-4a07-8f9e-f581ec171f8a@104.21.21.190:443?path=%2FZseq8mE8wMzbGFtV&security=tls&alpn=http%2F1.1&host=us7-04.890606.xyz&fp=chrome&type=ws&sni=US7-04.890606.XYz#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&alpn=h2,http/1.1&fp=randomized&type=ws&path=/trPyOrWMfkHd15oxiI?ed%3D1520%23FreeV2Alpha&host=301.pooriam.ir#@meli_proxyy
 
 trojan://Pooria@104.17.148.22:443?security=tls&sni=301.pOORiAm.ir&alpn=h2,http/1.1&fp=randomized&type=ws&path=/trPyOrWMfkHd15oxiI?ed%3D1520&host=301.pooriam.ir#@meli_proxyy
@@ -272,6 +270,8 @@ trojan://telegram-id-directvpn@52.213.193.122:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@52.47.140.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@54.85.118.34:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
+
 hysteria2://0aed82ca-fd08-11ef-8cf9-f23c93136cb3@107.167.18.123:443?security=tls&insecure=1&sni=06a68208-st69s0-su9bm5-1phl.la.shifen.uk#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریست📌تنها ایدی خرید کانفیگ اختصاصی : 👇@V2rayvlessbot ☑️پشتیبانی:  @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocol🚨تمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید🚨
 
 hysteria2://0aed82ca-fd08-11ef-8cf9-f23c93136cb3@107.167.18.123:443?security=tls&insecure=1&sni=06a68208-st69s0-su9bm5-1phl.la.shifen.uk#%40meli_proxyy%D8%B3%D8%B1%D9%88%D8%B1%D8%A7%DB%8C%E2%80%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1
@@ -296,13 +296,11 @@ hysteria2://sysadmin.sysadmin@170.205.54.5:443?insecure=1#%F0%9F%94%92%20HYSTERI
 
 vmess://ewogICAgImFkZCI6ICIxODUuMTguMjUwLjI0OSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxheDEuaWJnZncudG9wIiwKICAgICJpZCI6ICIxOTFiYWJjNS0yYWFmLTRmZTUtYTU2My1mMTQyNDRhZWZiNGUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIveHJlbnZ3cyIsCiAgICAicG9ydCI6IDg0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTE4NS4xOC4yNTAuMjQ5LTA5MjciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
+vmess://ewogICAgImFkZCI6ICJzZ2Zxa3FtbHRjeS5zaXRlIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAic2dmcWtxbWx0Y3kuc2l0ZSIsCiAgICAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JicXF2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS40Mi4yNDMtNjAwNCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogInNnZnFrcW1sdGN5LnNpdGUiCn0=
+
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi04NS4xMzMuMjM4LjgwOjEzOTg0IiwgImFkZCI6ICI4NS4xMzMuMjM4LjgwIiwgInBvcnQiOiAxMzk4NCwgImlkIjogIjJjOTM4Yjg4LWJjMDEtNDg3Ny1iMzMxLWNlMDIyNzc3Y2ZjMSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyBTRy02Mi4xNDYuMjMzLjUzOjUwNjc4IiwgImFkZCI6ICI2Mi4xNDYuMjMzLjUzIiwgInBvcnQiOiA1MDY3OCwgImlkIjogIjVkMWVjNmU3LWZkNTgtNGU4NS05MWM1LTYzMzVhODZkMjc3NSIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAibm9uZSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjIuMTQ2LjIzMy41MyIsInBvcnQiOjUwNjc4LCJpZCI6IjVkMWVjNmU3LWZkNTgtNGU4NS05MWM1LTYzMzVhODZkMjc3NSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODUuMTMzLjIzOC44MCIsInBvcnQiOjEzOTg0LCJpZCI6IjJjOTM4Yjg4LWJjMDEtNDg3Ny1iMzMxLWNlMDIyNzc3Y2ZjMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
 
 vmess://eyJhZGQiOiAiMTE4LjE2Ny4zLjEyNiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmE5ODcxNGMtMWQyYi0zYjYwLTgxZTAtZjcxNTExMTBlODAxIiwgIm5ldCI6ICJodHRwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAxNDQzLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLUhUVFAtVExTIFx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmYyBUVy0xMTguMTY3LjMuMTI2OjE0NDMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAidHcyLnNka2xrZC5vcmcifQ==
 
@@ -405,4 +403,6 @@ vmess://eyJhZGQiOiJid2RyYXBlci5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3Qi
 vmess://eyJhZGQiOiJid2RyYXBlci5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJnZXQtYS1mcmVlLW5hbWUuY29tIiwiaWQiOiI5MmQxYTllYS0wY2Q4LTRlZmItYjUzZi1iNjQ5NmY4YWJlZjgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjgwIiwicHMiOiJSYXlhbiAtIEdBRk4gLSBGTCAtIFAtMTQgLSDwn5+gIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6ImJ3ZHJhcGVyLmZhY3VsdHkudWNkYXZpcy5lZHUiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiJid2RyYXBlci5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJnZXQtYS1mcmVlLW5hbWUuY29tIiwiaWQiOiI5N2NkZWY3OS1hMTIxLTQ0ZWEtOGE3My1lMTg4ZTZkNzExMmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjgwIiwicHMiOiJSYXlhbiAtIEdBRk4gLSBGTCAtIFAtMzQgLSDwn5+gIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6ImJ3ZHJhcGVyLmZhY3VsdHkudWNkYXZpcy5lZHUiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiJid2RyYXBlci5mYWN1bHR5LnVjZGF2aXMuZWR1IiwiYWlkIjoiMCIsImhvc3QiOiJnZXQtYS1mcmVlLW5hbWUuY29tIiwiaWQiOiIwNDk1ZmUwNy1jN2ZlLTRhZjYtOTgyNy0wNjliMzI0NTcxMTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6IjgwIiwicHMiOiJSYXlhbiAtIEdBRk4gLSBGTCAtIFAtMDYgLSDwn5+gIHQubWUvUmF5YW5fQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6ImJ3ZHJhcGVyLmZhY3VsdHkudWNkYXZpcy5lZHUiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
