@@ -30,6 +30,8 @@ vless://00cb16a4-4170-4e97-a5a3-852dea723681@91.107.255.255:443?security=reality
 
 vless://032184bc-753c-43f5-b7c3-33a37e682f5f@tor5.vpntype.dev:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%94%8652%40oneclickvpnkeys
 
+vless://03a2c352-738b-5bcf-a396-e1bc358c5b88@91.242.229.77:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=91.242.229.77&encryption=none#Rayan%20-%20SSO%20-%20WSCT-110%20-%20NL%20-%20II%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.167.170:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.131.241:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
@@ -55,8 +57,6 @@ vless://0a947205-01a0-4634-8e78-daf200d02def@109.120.189.30:443?security=reality
 vless://0a947205-01a0-4634-8e78-daf200d02def@212.233.94.204:443?security=reality&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B7%F0%9F%87%BA%20RU-212.233.94.204:443
 
 vless://0a947205-01a0-4634-8e78-daf200d02def@212.233.95.52:443?security=reality&sni=maviks.eu&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B7%F0%9F%87%BA%20RU-212.233.95.52:443
-
-vless://0b32285d-1748-4ee5-981b-5c1249646d22@5.181.21.181:80?security=&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=5.181.21.181&encryption=none#Rayan%20-%20GSS%20-%20WSCT-106%20-%20AT%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
 
 vless://0b5882a8-d7f0-4e44-b289-3d59eda71f45@mtn-join.servernett.cfd:34940?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40ServerNett+Mtn+Unlimited+2
 
@@ -89,6 +89,8 @@ SSHmax GCORE :
 DIRECT CONFIG:
 
 vless://12aceaa2-c41f-438a-b5b0-651d503901d7@192.200.160.31:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ServerNett&sni=mtn-join3.servernett.cfd#%40ServerNett+Mtn+Unlimited
+
+vless://12c12eae-86f1-5356-adae-b4826e75ee47@45.137.155.134:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.137.155.134&encryption=none#Rayan%20-%20SSO%20-%20WSCT-113%20-%20UA%20-%20I%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 
 vless://163ec037-b940-4c87-a12d-dcec80a3e87f@74.119.194.66:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=us1-gss.msnegar.eu.org&encryption=none#Rayan%20-%20GSS%20-%20WSCT-105%20-%20US%20-%20%F0%9F%9F%A2%20t.me/Rayan_Config
 
@@ -123,8 +125,6 @@ vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.52.217:443?security=tls&sni=
 vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.54.240:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-11.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-11%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
 vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.67.177:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-11.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-11%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
-
-vless://1992b77e-a3f9-4ecb-a63d-bbefb94d0bca@167.82.67.19:443?security=tls&sni=seminarsinmcb.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-11.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-11%20-%20ML%20-%2007%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
 ss://%74%65l%65g%72a%6d-%69d-%41r%562r%61y@151.101.194.133:443/?type=grpc&serviceName=Telegram
 
@@ -350,8 +350,6 @@ vmess://eyJhZGQiOiI0NS44NS4xMTguODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiI1MS4xNS4xOS4yMDYiLCJhaWQiOiIwIiwiaG9zdCI6IjUxLjE1LjE5LjIwNiIsImlkIjoiMmE5YjMyYTAtMDZiNi0xMWYwLWI3MzEtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2JreTl4MDUzIiwicG9ydCI6IjQ0MyIsInBzIjoiUmF5YW4gLSBGU1MgLSBXU0NULTEwMiAtIEVVIC0g8J+UtCB0Lm1lL1JheWFuX0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ6dWxhLmlyIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiI1MS4xNS4xOS4yMDYiLCJhaWQiOiIwIiwiaG9zdCI6Inp1bGEuaXIiLCJpZCI6IjJhOWIzMmEwLTA2YjYtMTFmMC1iNzMxLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ia3k5eDA1MyIsInBvcnQiOiI4MCIsInBzIjoiUmF5YW4gLSBGU1MgLSBXU0NULTEwNSAtIEVVIC0g8J+UtCB0Lm1lL1JheWFuX0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTQxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQERhaWx5X0NvbmZpZ3MiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI3OC40Ny4xMzEuMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTA2OGQ1ODAtNmFkNC00ZjYwLWY5NGUtNDhhOTAwYWY4N2I2IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAcGlhdnBuYWMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -374,15 +372,11 @@ vmess://eyJhZGQiOiI5MS4xODUuMTg3LjQ5IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijk1NWUx
 
 vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjIxNSIsImFpZCI6IjAiLCJob3N0IjoiMTAzLjI1My4yNi4yMTUiLCJpZCI6ImI1NzQzNjcwLTA2YjUtMTFmMC1iMjMwLTIwNWM2ZDVmNWQ3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9qZms5OGEyMSIsInBvcnQiOiI0NDMiLCJwcyI6IlJheWFuIC0gRlNTIC0gV1NDVC0xMDMgLSBTRyAtIPCflLQgdC5tZS9SYXlhbl9Db25maWciLCJzY3kiOiJhdXRvIiwic25pIjoienVsYS5pciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
-vmess://eyJhZGQiOiIxMDMuMjUzLjI2LjIxNSIsImFpZCI6IjAiLCJob3N0IjoienVsYS5pciIsImlkIjoiYjU3NDM2NzAtMDZiNS0xMWYwLWIyMzAtMjA1YzZkNWY1ZDc4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2pmazk4YTIxIiwicG9ydCI6IjgwIiwicHMiOiJSYXlhbiAtIEZTUyAtIFdTQ1QtMTA2IC0gU0cgLSDwn5S0IHQubWUvUmF5YW5fQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-
 vmess://eyJhZGQiOiIxMDQuMjEuMTUuMjEyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY28J+HufCfh7ciLCJzY3kiOiJhdXRvIiwic25pIjoiZ2x3ZWlkZi5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==MTN
 
 vmess://eyJhZGQiOiIxMDguMTYyLjE5Mi4xNTQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiMjA4NyIsInBzIjoi8J+UkiBWTS1HUlBDLVRMUyDwn4+04oCN4pig77iPIE5BLTEwOC4xNjIuMTkyLjE1NDoyMDg3Iiwic2N5IjoiYXV0byIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMTU1MTM4MjExNjUuMS1zZW5hdG9yLmluZm8iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiIxMDguMTgxLjEwLjE3IiwiYWlkIjoiMCIsImhvc3QiOiIxMDguMTgxLjEwLjE3IiwiaWQiOiJmNDM4MzY2MC0wNmI1LTExZjAtYjAzOC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIveDBkc3ExN3QiLCJwb3J0IjoiNDQzIiwicHMiOiJSYXlhbiAtIEZTUyAtIFdTQ1QtMTAxIC0gTEEgLSDwn5S0IHQubWUvUmF5YW5fQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6Inp1bGEuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiIxMDguMTgxLjEwLjE3IiwiYWlkIjoiMCIsImhvc3QiOiJ6dWxhLmlyIiwiaWQiOiJmNDM4MzY2MC0wNmI1LTExZjAtYjAzOC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIveDBkc3ExN3QiLCJwb3J0IjoiODAiLCJwcyI6IlJheWFuIC0gRlNTIC0gV1NDVC0xMDQgLSBMQSAtIPCflLQgdC5tZS9SYXlhbl9Db25maWciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNzIuNjcuMTM4LjE0MCIsImFpZCI6IjAiLCJob3N0IjoiamFoZmtqaGEuY2ZkIiwiaWQiOiI5NTBkYjZhYS00OTI2LTQ2MTYtODE2ZS1lYzAzMTJkY2I4N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiKEBWbWVzc1Byb3RvY29sKdio2LHYp9uMINiu2LHbjNivINmIINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiamFoZmtqaGEuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
