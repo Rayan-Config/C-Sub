@@ -28,11 +28,15 @@ vless://0398bf98-40fc-5f3a-ad3e-81ab26894bc2@vpnandroid2.info.gf:8880?mode=gun&s
 
 vless://03a2c352-738b-5bcf-a396-e1bc358c5b88@91.242.229.77:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=91.242.229.77&encryption=none#Rayan%20-%20SSO%20-%20WSCT-110%20-%20NL%20-%20II%20-%20%E2%9A%BE%EF%B8%8F%20t.me/Rayan_Config
 
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.126.24:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.196.25:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@VIProxys
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.206.251:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.225.74:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.66.21:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.133.114.93:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#@VIProxys
 
@@ -52,8 +56,6 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.184.159:443?security=tls&sni
 
 vless://0b83a99a-62e1-4eff-97cf-894f865aaced@asoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top:443?security=reality&encryption=none&pbk=uVs_46PIq004Zu7T_n88y6EEL1me-9dcNVEaNKHFQEI&headerType=none&fp=chrome&type=tcp&sni=asoff.qwertyuioaasdfghjkzxcvbnmdfghvqsadwqewqeqwqsxqaztghbhjntgbrfded.top&sid=b33f11f1#telegram 🍊 DailyV2ry
 
-vless://0bbe5b55-1d0a-41b5-acd8-8360de88c90a@V2rayNG.SPDNet.online:12685?mode=gun&security=none&encryption=none&authority=www.speedtest.net.A.164.speedtest2.livE&type=grpc&serviceName=TEL%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet-JOIN-%40V2rayNG_SPDNet-TEL--%40V2rayNG_SPDNet#%40v2ryNG01.%20%20%20%D8%B3%D8%B1%D9%88%D8%B13%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%A9%F0%9F%87%AA
-
 vless://0ffc6eda-c046-4693-824f-77fae188d405@jioin-severnett5.numalla.top:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&sni=jioin-severnett5.numalla.top#%40ServerNett+tls+All+Unlimited+2
 
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.11.155:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FeR9eo6sq6TUid1Fe%3Fed%3D2560&security=tls&sni=ZYZzZoAO.PuTATa.EU.org&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%AB%9026%40oneclickvpnkeys
@@ -71,8 +73,6 @@ vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.19.12.190:443/?type=ws&encrypti
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.21.112.1:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FKZKNsnIVEv4CHlAq%3Fed%3D2560&security=tls&sni=zyZZzOaO.PutaTA.eU.Org&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%AB%9033%40oneclickvpnkeys
 
 vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.21.80.1:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FKRKNxudq5MhTTMK1%3Fed%3D2560&security=tls&sni=zYzZzoAo.PuTaTA.eu.oRG&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%AB%9051%40oneclickvpnkeys
-
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.21.96.1:443/?type=ws&encryption=none&host=zyzzzoao.putata.eu.org&path=%2FO1YtAJ8zPyH4VbeO%3Fed%3D2560&security=tls&sni=zyzzZOAo.putAtA.EU.org&alpn=h2%2Chttp%2F1.1&fp=randomized#%F0%9F%AB%9048%40oneclickvpnkeys
 
 vless://128fde49-c4d6-41e0-9176-156bf62527eb@140.248.184.126:443?security=tls&sni=pscresearch.faculty.ucdavis.edu&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=harifet-manam-17.com&encryption=none#Rayan%20-%20CF%20-%20FL%20-%20F-17%20-%20ML%20-%2017%20-%20%F0%9F%8C%8D%20t.me/Rayan_Config
 
@@ -222,8 +222,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#@meli_proxyy
 
-trojan://%40NoForcedHeaven%40NoForcedHeaven%40NoForcedHeaven@ru2.asc-sam.ir:8443?type=tcp&path=%2F&host=ru2.asc-sam.ir&headerType=http&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ru2.asc-sam.ir#@meli_proxyy
-
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?security=tls&headerType=none&type=tcp&sni=connectwithemployers.online#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://27647410-b4df-11ed-850d-1239d0255272@sg1.socifiles.com:443?security=tls&headerType=none&type=tcp#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -278,6 +276,8 @@ trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&secur
 
 trojan://ff478153-9df6-4a86-bb72-7bfc28532e45@165.22.30.47:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#%5B%F0%9F%87%AE%F0%9F%87%B7%5D+telegram+%40prrofile_purple
 
+trojan://gIRrGnuuNm@188.42.88.144:2096?path=%2F&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun#%40v2rayNG_VPNN
+
 hysteria2://6cc30ad1@107.175.32.131:2024?insecure=1&sni=www.bing.com#%F0%9F%94%92%20HYSTERIA-UDP%20%F0%9F%87%BA%F0%9F%87%B8%20US-107.175.32.131:2024
 
 hysteria2://867f512f-93d2-4344-853c-50965de9b103@shy23.zqjc.cloud:55215?security=tls&insecure=0&sni=shy23.zqjc.cloud#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریست📌تنها ایدی خرید کانفیگ اختصاصی : 👇@V2rayvlessbot ☑️پشتیبانی:  @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocol🚨تمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید🚨
@@ -288,6 +288,8 @@ hysteria2://a73e6402-a66f-4b68-9910-071604aec882@ru1.node.crosswall.org:443?secu
 
 hysteria2://b099dc75-799b-4c23-b241-48a797259359@146.56.102.76:443?security=tls&insecure=1&mport=22000-27000&sni=kr1.xiaoliyu.cyou#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
+hysteria2://b099dc75-799b-4c23-b241-48a797259359@146.56.102.76:443?security=tls&insecure=1&mport=22000-27000&sni=kr1.xiaoliyu.cyou#%40meli_proxyy
+
 hysteria2://corQOjVvYR@45.144.49.31:443?obfs=salamander&obfs-password=AQnCGE6gDorRMWuaxt4BRWLumwIXZR&insecure=1&sni=www.bing.com#t.me/+8scEQdMMYf9iYzdk
 
 hysteria2://corQOjVvYR@45.144.49.31:443?obfs=salamander&obfs-password=AQnCGE6gDorRMWuaxt4BRWLumwIXZR&insecure=1&sni=www.whatsapp.com#t.me/+8scEQdMMYf9iYzdk
@@ -295,8 +297,6 @@ hysteria2://corQOjVvYR@45.144.49.31:443?obfs=salamander&obfs-password=AQnCGE6gDo
 vmess://ewogICAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiNTEuNzkuMTAyLjI1MyIsCiAgICAiaWQiOiAiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eo8J+HpkNBLTUxLjc5LjEwMi4yNTMtMTA5OSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 
 vmess://ewogICAgImFkZCI6ICIyMy4xNjIuMjAwLjIyNyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0yMy4xNjIuMjAwLjIyNy03ODk3IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
-
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJAWHJheWNvbnRpb24gXCIgMTAwR0IiLAogICJhZGQiOiAic3Quc2tpem9mZXJuaS5zdG9yZSIsCiAgInBvcnQiOiA1Nzg0NSwKICAiaWQiOiAiWHJheWNvbnRpb24iLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJodHRwIiwKICAiaG9zdCI6ICJGaWxpbW8uY29tIiwKICAicGF0aCI6ICIvIiwKICAidGxzIjogIm5vbmUiCn0=
 
 vmess://ewogICJhZGQiOiAiaXJhMi5hcnNhbGFudGF1LnNicyIsCiAgImFpZCI6ICIwIiwKICAiZW5jcnlwdGlvbiI6ICJhdXRvIiwKICAiaG9zdCI6ICJibWkuaXIiLAogICJpZCI6ICIyZDJhMGYxNC04YWU4LTRlODgtOWNmZC01MjY0YTM0M2Y5NzciLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIvIiwKICAicG9ydCI6ICI4MCIsCiAgInBzIjogIlvwn4er8J+Hrl0gdGVsZWdyYW0gQHBycm9maWxlX3B1cnBsZSIsCiAgInNlY3VyaXR5IjogImF1dG8iLAogICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgInRscyI6ICIiLAogICJ0eXBlIjogImh0dHAiLAogICJ1cmxfZ3JvdXAiOiAidjJyYXkiLAogICJ2IjogIjIiCn0=
 
@@ -332,6 +332,8 @@ vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 
 vmess://eyJhZGQiOiIxMDQuMjEuNDQuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3aW5kb3dzLm9uZXR3b3RocmVlMTIzLmlyIiwiaWQiOiJhNzIyODY2YS1kNWRkLTRhNzItODI5Ny1lYjRmYjdmMjViNmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvWG90OGV4OHIiLCJwb3J0IjoiODQ0MyIsInBzIjoiKEBWbWVzc1Byb3RvY29sKdio2LHYp9uMINiu2LHbjNivINmIINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoid2luZG93cy5vbmV0d290aHJlZTEyMy5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiIxMDQuMjEuNDQuMTg1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3aW5kb3dzLm9uZXR3b3RocmVlMTIzLmlyIiwiaWQiOiJhNzIyODY2YS1kNWRkLTRhNzItODI5Ny1lYjRmYjdmMjViNmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvWG90OGV4OHIiLCJwb3J0IjoiODQ0MyIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IndpbmRvd3Mub25ldHdvdGhyZWUxMjMuaXIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+
 vmess://eyJhZGQiOiIxMDQuMjEuNDguMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXN2bWVzcy5ybm1jbm0uY29tIiwiaWQiOiJlOTM2ZTFmYS1lZDBjLTRlMjAtYjJkOC04ODBmMDJhOGZiMzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcXdlcnR5dWlvcCIsInBvcnQiOiI4MCIsInBzIjoiKEBWbWVzc1Byb3RvY29sKdio2LHYp9uMINiu2LHbjNivINmIINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxMDcuMTQ4LjIwNy4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODcxMiIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -344,11 +346,11 @@ vmess://eyJhZGQiOiIxNDIuNC4xMDQuMzMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiIxNDkuNy4xNi4xNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZmIzZmMyNDMtNDY5OC00OWM0LThjNDQtMDQxNWY2OGE0ZDI1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzEwMSIsInBzIjoi8J+rkDNAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
-vmess://eyJhZGQiOiIxNjguMTE5LjExNS43MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2YjdjYmM0MS1mYjgwLTQxYTgtOGViNi1iNWJkYjBlODYxNDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6Itqp2KfZhtin2YQgOiDwn4aUIEB2cG5faXJhbl85OCDimqDvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
 vmess://eyJhZGQiOiIxNzIuMjA0LjguMTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiODFiYmNhNzAtYTM1Zi00ODdlLTg4YTQtOGJkNTg1NmIxMGE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTAiLCJwcyI6IvCflJIgVk0tVENQLU5BIPCfh7Pwn4e/IE5aLTE3Mi4yMDQuOC4xMDo1NTAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxNzIuNjcuMjA3LjI2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnbHdlaWRmLnNicyIsImlkIjoiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IjMwMNqv24zaryAzOdiq2YjZhdin2YYhINiq2LPYquKAjNix2KfbjNqv2KfZhvCfpK9UaWNrVjJib3RAIiwic2N5IjoiYXV0byIsInNuaSI6Imdsd2VpZGYuc2JzIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+vmess://eyJhZGQiOiIxODYuMTkwLjIxNS45MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJAdjJyYXkzMTMg2qnYp9mG2KfZhNmF2YjZhiDinaTvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiIxODYuMTkwLjIxNS45MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJAbWVsaV9wcm94eXkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
