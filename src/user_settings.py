@@ -4,7 +4,6 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://Rayan-Config.github.io/ALL",
-    "https://url.medicaltreatment.ir/Ainita",
     "https://raw.githubusercontent.com/sorkhi-2/GAFN-ALL/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/GAFN-IVP/GAFN-ALL-II/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/gransa/Temp-Sub/refs/heads/main/configs/proxy_configs.txt",
@@ -13,7 +12,10 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-III",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-IV",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-V",
-    # Add more URLs here if you want to include additional sources.
+    "https://raw.githubusercontent.com/miladtahanian/V2RayScrapeByCountry/refs/heads/main/output_configs/Hysteria2.txt",
+    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hysteria2",
 ]
 
 # Set to True to fetch the maximum possible number of configurations.
@@ -30,10 +32,10 @@ ENABLED_PROTOCOLS = {
     "wireguard://": False,
     "hysteria2://": True,
     "vless://": True,
-    "vmess://": True,
+    "vmess://": False,
     "ss://": True,
     "trojan://": False,
-    "tuic://": True,
+    "tuic://": False,
 }
 
 # Maximum age of configurations in days.
