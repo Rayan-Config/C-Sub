@@ -92,6 +92,8 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&fp=chro
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2016
 
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:45278/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:45278/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
@@ -122,6 +124,8 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:45278/?sni=real
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:45278/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:45278/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
@@ -135,6 +139,8 @@ hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:43429/?sni=real.
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:45278/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:45278/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
@@ -160,13 +166,13 @@ hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:45278/?sni=real
 
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:43429/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%202
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172/?POST%20#Ainita%20Server%203
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172/?POST%20#Ainita%20Server%204
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172/?POST%20#Ainita%20Server%201
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjUiLCJhaWQiOiIwIiwiaG9zdCI6ImthcGVsbGVuZy5jb20iLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFJheWFuX0NvbmZpZyA2NCIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
