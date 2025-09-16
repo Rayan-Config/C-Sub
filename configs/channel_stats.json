@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-16T02:16:42.858211+00:00",
+  "timestamp": "2025-09-16T03:23:40.595969+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 83.01,
-        "last_success": "2025-09-16T02:16:16.554437+00:00",
+        "last_success": "2025-09-16T03:23:14.338520+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 16,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 3.62,
+        "avg_response_time": 3.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.82,
-        "last_success": "2025-09-16T02:16:22.173769+00:00",
+        "overall_score": 76.56,
+        "last_success": "2025-09-16T03:23:19.464103+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 1764,
         "valid_configs": 42,
         "unique_configs": 42,
-        "avg_response_time": 2.37,
+        "avg_response_time": 2.9,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 72.04,
-        "last_success": "2025-09-16T02:16:26.566299+00:00",
+        "overall_score": 71.25,
+        "last_success": "2025-09-16T03:23:24.384528+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 42,
@@ -123,11 +123,11 @@
         "total_configs": 14641,
         "valid_configs": 121,
         "unique_configs": 121,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.0,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.12,
-        "last_success": "2025-09-16T02:16:34.630844+00:00",
+        "overall_score": 75.2,
+        "last_success": "2025-09-16T03:23:32.558180+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 5,
