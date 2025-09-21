@@ -160,10 +160,6 @@ vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=
 
 vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.makingirangreatagain.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2d1.makingirangreatagain.com&encryption=none#@Rayan_Config%2033
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:41749/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:41749/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
