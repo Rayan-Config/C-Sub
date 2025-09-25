@@ -170,6 +170,10 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:57588/?sni=real
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:53430/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:53430/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:53430/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -235,6 +239,10 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1#@Rayan_Config%202
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Rayan_Config%203
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#@Rayan_Config%204
+
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:53430/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
