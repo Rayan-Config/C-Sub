@@ -190,8 +190,6 @@ vless://f818a4b0-9a3f-11f0-b382-5361b9be0dd2@51.79.70.147:10004?security=&fp=chr
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
