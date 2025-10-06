@@ -112,31 +112,17 @@ vless://edd716ae-7d5a-44f7-a0ed-a615eab0c766@141.94.168.171:32647?security=&fp=c
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:46198/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:46198/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:46198/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:46198/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@172.252.236.213:46198/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:46198/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:46198/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
