@@ -96,6 +96,8 @@ vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@82.115.43.39:443?security=reality&s
 
 vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@91.147.92.153:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2089
 
+vless://d2d0f796-edb0-427a-af32-ae360679f9e7@1password.com:443?security=tls&sni=rAyAn-007.fOtOn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.foton.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20136
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.149:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2030
