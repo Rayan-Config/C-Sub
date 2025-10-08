@@ -90,6 +90,8 @@ vless://a50ea41d-10b1-4351-9ae2-6d92f501a3a0@172.67.168.193:443?security=tls&sni
 
 vless://a9a5a7ed-d852-4b3b-af5d-6e8d721300b5@141.227.166.55:20421?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2076
 
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
+
 vless://b33105c5-e37d-4ad1-a3b9-102390b3e1b8@141.227.136.29:13833?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#@Rayan_Config%2080
 
 vless://bcc560e0-173b-4c49-a4ce-742c3fae0028@[2a03:b0c0:3:f0:0:1:4139:b000]:9696?security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=Y_GsfLRoTP6SXIyYQjrn8TM_nce7Y9RIoEfWTJ35sGI&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%20113
