@@ -246,10 +246,6 @@ vless://f59e2420-b706-4bee-bcdd-1c2162e5372a@change.org:443?security=tls&sni=rAy
 
 vless://f59e2420-b706-4bee-bcdd-1c2162e5372a@codepen.io:443?security=tls&sni=rAyAn-cOnFiG-nl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-nl-1.pArSa.dPdNs.oRg&encryption=none#@Rayan_Config%205.50
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -290,10 +286,6 @@ hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@104.250.239.32:49425/?sni=real.
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -323,10 +315,6 @@ hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:48892/?sni=real.
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@104.250.239.32:49425/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:48892/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%20135.225.124.80
 
