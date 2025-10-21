@@ -266,6 +266,10 @@ hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@104.250.239.32:45311/?sni=real.
 
 hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:58375/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@104.250.239.32:45311/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
+
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:58375/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@104.250.239.32:45311/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:58375/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -293,6 +297,14 @@ hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:58375/?sni=real.
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@104.250.239.32:45311/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:58375/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@104.250.239.32:45311/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
+
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:58375/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@104.250.239.32:45311/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
+
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:58375/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@104.250.239.32:45311/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
