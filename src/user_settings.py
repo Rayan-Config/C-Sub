@@ -5,7 +5,7 @@
 SOURCE_URLS = [
     "https://Rayan-Config.github.io/ALL",
     "https://url.medicaltreatment.ir/Ainita",
-    "https://url.medicaltreatment.ir/test",
+    "https://url.medicaltreatment.ir/GAFN",
     "https://url.medicaltreatment.ir/GAFN-Hysteria",
     "https://raw.githubusercontent.com/gransa/Temp-Sub/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-I",
