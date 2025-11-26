@@ -6,7 +6,7 @@ SOURCE_URLS = [
     "https://Rayan-Config.github.io/ALL",
     "https://url.medicaltreatment.ir/Ainita",
     "https://url.medicaltreatment.ir/GAFN",
-    "https://url.medicaltreatment.ir/GAFN-Hysteria",
+    "https://bp.medicaltreatment.ir/sub?s=ssconf%3A%2F%2Fs3.amazonaws.com%2Fbeedynconprd%2Fzf38bv6oxi1nv3wfkpmxyfl8yj5fargza3foantoalu16vznl0ckxx7bgf1ufx51.json%23BeePass",
     "https://raw.githubusercontent.com/gransa/Temp-Sub/refs/heads/main/configs/proxy_configs.txt",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-I",
     "https://raw.githubusercontent.com/Rayan-Config/HUB/refs/heads/main/H-II",
