@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-02-07T08:29:06.607117+00:00",
+  "timestamp": "2026-02-07T09:22:36.634768+00:00",
   "channels": [
     {
       "url": "https://Rayan-Config.github.io/ALL",
@@ -31,11 +31,11 @@
         "total_configs": 1,
         "valid_configs": 1,
         "unique_configs": 1,
-        "avg_response_time": 3.26,
+        "avg_response_time": 0.88,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 95.11,
-        "last_success": "2026-02-07T08:21:01.859873+00:00",
+        "overall_score": 98.68,
+        "last_success": "2026-02-07T09:22:18.654919+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -57,8 +57,8 @@
         "avg_response_time": 1.26,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 73.7,
-        "last_success": "2026-02-07T08:21:05.164413+00:00",
+        "overall_score": 73.71,
+        "last_success": "2026-02-07T09:22:21.943013+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -72,22 +72,22 @@
     },
     {
       "url": "https://bp.medicaltreatment.ir/sub?s=ssconf%3A%2F%2Fs3.amazonaws.com%2Fbeedynconprd%2Fzf38bv6oxi1nv3wfkpmxyfl8yj5fargza3foantoalu16vznl0ckxx7bgf1ufx51.json%23BeePass",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 240,
+        "valid_configs": 15,
+        "unique_configs": 15,
+        "avg_response_time": 0.36,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 76.02,
+        "last_success": "2026-02-07T09:22:24.309679+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 0,
-          "ss://": 0,
+          "ss://": 15,
           "trojan://": 0,
           "tuic://": 0
         }
@@ -146,11 +146,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.68,
-        "last_success": "2026-02-07T08:29:00.435926+00:00",
+        "overall_score": 77.71,
+        "last_success": "2026-02-07T09:22:30.488879+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -196,7 +196,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 76.58,
-        "last_success": "2026-02-07T08:29:04.558505+00:00",
+        "last_success": "2026-02-07T09:22:34.588679+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -215,11 +215,11 @@
         "total_configs": 225,
         "valid_configs": 15,
         "unique_configs": 15,
-        "avg_response_time": 0.05,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 76.6,
-        "last_success": "2026-02-07T08:29:06.606294+00:00",
+        "last_success": "2026-02-07T09:22:36.634083+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
